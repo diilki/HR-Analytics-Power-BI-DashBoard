@@ -52,9 +52,7 @@ The dashboard is designed to support strategic workforce planning and improve em
 
 ## 📷 Dashboard Preview
 
-> *(Add your dashboard screenshot here)*
-
-![HR Analytics Dashboard](images/dashboard.png)
+![HR Analytics Dashboard](image/dashboard.png)
 
 ---
 
