@@ -84,9 +84,9 @@ The objective of this project is to demonstrate how **Power BI** can be used to 
 ```
 HR-Analytics-Dashboard/
 │
-├── Dashboard.pbix
-├── Dataset/
-├── Images/
+├── HR Analytics Dashboard.pbix
+├── HR_Analytics_Dataset/
+├── image/
 │   └── dashboard.png
 ├── README.md
 ```
